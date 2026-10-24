@@ -12,7 +12,7 @@
 
 #include "libft.h"
 
-static int convert (const char *s, int i, int sign)
+static int convert(const char *s, int i, int sign)
 {
 	int	result;
 
